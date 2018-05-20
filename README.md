@@ -1,5 +1,8 @@
 # Sample .net Code API consuming WCF Services
 Sample using .net core API to consume WCF
+- VS 2017
+- net core 2.0
+- net framework 461
 
 ## WCF
 - Repository Pattern
