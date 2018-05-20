@@ -1,7 +1,7 @@
 # Sample .net Code API consuming WCF Services
 Sample using .net core API to consume WCF
 
-## On WCF
+## WCF
 - Repository Pattern
 - Unit of Work
 - Entity Framework 6.0
@@ -10,8 +10,18 @@ Sample using .net core API to consume WCF
 . net Framework
 
 
-## On API
+## API
 - Swagger
 - DI
 - Versioning
 - .net core 2.0
+
+
+## Tests
+- xUnit
+- MSTest
+- Moq
+- Moq.Code
+- nBuilder
+
+Enjoy it =)
