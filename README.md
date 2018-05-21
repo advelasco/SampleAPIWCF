@@ -10,7 +10,7 @@ Sample using .net core API to consume WCF
 - Entity Framework 6.0
 - WCF
 - Unity
-. net Framework
+- net Framework
 
 
 ## API
